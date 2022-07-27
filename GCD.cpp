@@ -1,4 +1,6 @@
-/*GCD (Greatest Common Divisor ) also known as the Highest Common Factor for a set of two numbers is largest integer that can exactly divide both numbers(without a remainder). There are different ways to calculate GCD of two integers(for both positive integers and nagative integers) using loops and decision making statement.*/
+/*GCD (Greatest Common Divisor ) also known as the Highest Common Factor for a set of two numbers is largest integer that can exactly divide both numbers
+(without a remainder).
+There are different ways to calculate GCD of two integers(for both positive integers and nagative integers) using loops and decision making statement.*/
 //gcd for both positive numbers and negative numbers.
 #include <iostream>
 using namespace std;
